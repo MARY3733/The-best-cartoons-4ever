@@ -1,0 +1,43 @@
+.mybox {
+	float: left;
+	padding: 15px;
+}
+.content {
+	justify-content: center;
+}
+
+body{
+	background-color: white;
+	border-color: yellow black;
+    border-style: solid;
+    padding: 8px;
+   
+}
+a{
+	border-color: black;	
+    width: 10px;
+    size: 100px;
+}
+h1 {
+	text-align: center;
+	font-family: Trebuchet MS;
+	color: #313131;
+	letter-spacing: 0.10em;
+	font-size: 35px;
+}
+h2 {
+	text-align: center;
+	font-family: Trebuchet MS;
+}
+h3 {
+	width: 300px;
+	color: #313131;
+	font-family: Tate regular,Arial,"Helvetica Neue",Helvetica,sans-serif;
+	font-size: 20px;
+	line-height: 20px;
+	font-weight: 20px;
+}
+.no {
+	color: gray;
+	height: 3px;
+}
